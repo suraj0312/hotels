@@ -1,0 +1,3 @@
+id,type,min_subtotal,eligible_item_ids,description
+promo_1,free_shipping,10000,["hilton_garden_inn_goa_calangute", "doubletree_by_hilton_goa_panaji", "baale_resort_goa_an_slh_hotel"],Complimentary service on all orders above INR 3500
+promo_2,free_shipping,,["hilton_goa_resort", "doubletree_by_hilton_hotelgoa_arpora_baga"],Free meal on order above INR 5000

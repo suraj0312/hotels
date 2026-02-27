@@ -1,0 +1,4 @@
+id,customer_id,street_address,city,state,postal_code,country
+addr_1,cust_1,Diwan Bhatti 117/2,Arpora,Goa,403516,India
+addr_2,cust_1,Survey No 124/7, Candolim Rd,Gauravaddo,Goa,403516,India
+addr_3,cust_2,789 Pine LnXimer Bardez,Arpora,Goa,403518,India

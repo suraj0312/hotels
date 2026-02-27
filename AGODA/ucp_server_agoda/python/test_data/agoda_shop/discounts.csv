@@ -1,0 +1,4 @@
+code,type,value,description
+"AGODA15",percentage,15,15% Off
+"AGODANEW25",percentage,25,25% Off
+"AGODASAVE750",fixed_amount,750,INR 750 Off

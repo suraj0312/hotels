@@ -1,0 +1,4 @@
+id,type,min_subtotal,eligible_item_ids,description
+FREE_PARKING,OFFER,0,"[""holiday_inn_goa_candolim"",""holiday_inn_resort_goa"",""holiday_inn_genoa_city""]",Enjoy complimentary parking for all guests during your stay.
+FREE_BREAKFAST,OFFER,2000,"[""holiday_inn_goa_candolim"",""crowne_plaza"",""holiday_inn_express""]",Start your day with a delicious complimentary breakfast included in your booking.
+FREE_INTERNET,OFFER,0,"[""holiday_inn_goa_candolim"",""holiday_inn_resort_goa"",""holiday_inn_genoa_city"",""crowne_plaza,holiday_inn_express""]",Get free high-speed wireless internet access throughout your stay.

@@ -1,0 +1,7 @@
+id,title,price,image_url
+bouquet_roses,Bouquet of Red Roses,3500,http://localhost:10002/static/bouquetroses.png
+pot_ceramic,Ceramic Pot,1500,http://localhost:10002/static/potceramic.png
+bouquet_sunflowers,Sunflower Bundle,2500,http://localhost:10002/static/bouquetsunflowers.png
+bouquet_tulips,Spring Tulips,3000,http://localhost:10002/static/bouquettulips.png
+orchid_white,White Orchid,4500,http://localhost:10002/static/whiteorchid.png
+gardenias,Gardenias,2000,http://localhost:10002/static/gardenias.png

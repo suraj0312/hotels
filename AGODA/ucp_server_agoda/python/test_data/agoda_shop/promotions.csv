@@ -1,0 +1,3 @@
+id,type,min_subtotal,eligible_item_ids,description
+promo_1,free_shipping,10000,"[""ronil_goa"",""bloom_boutique"",""ginger_goa""]","Free pickup & drop for bookings over INR 2000 — enjoy a smooth, hassle-free arrival and departure."
+promo_2,free_shipping,,"[""ocean_wave"",""lotus_sutra"",""red_thread"", ""crowne_plaza_ago""]","Free breakfast included with your stay — start your day right."

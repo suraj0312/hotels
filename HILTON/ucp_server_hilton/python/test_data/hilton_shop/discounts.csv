@@ -1,0 +1,4 @@
+code,type,value,description
+20OFF,percentage,20,20% Off
+HILTON10,percentage,10,10% Off
+FINAL400,final_amount,500,INR 500 Off

@@ -1,0 +1,4 @@
+id,customer_id,street_address,city,state,postal_code,country
+addr_1,cust_1,"22 MG Road","Bengaluru",KA,560001,IN
+addr_2,cust_1,"14 Nehru Nagar",New Delhi,DL,"110003",IN
+addr_3,cust_2,"78 FC Road",Pune,MH,"411004",IN
