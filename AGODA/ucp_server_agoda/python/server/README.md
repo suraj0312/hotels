@@ -62,11 +62,11 @@ test data. This script maps raw product information into the UCP schema so the
 sample server can respond to queries.
 
 ```shell
-mkdir /tmp/ucp_test
+mkdir /tmp/ucp_agoda
 uv run import_csv.py \
-    --products_db_path=/tmp/ucp_test/products.db \
-    --transactions_db_path=/tmp/ucp_test/transactions.db \
-    --data_dir=../test_data/flower_shop
+    --products_db_path=/tmp/ucp_agoda/products.db \
+    --transactions_db_path=/tmp/ucp_agoda/transactions.db \
+    --data_dir=../test_data/agoda_shop
 ```
 
 ## Run the Server
@@ -78,10 +78,9 @@ start the server and the client in separate terminals.
 
 ```shell
 uv run server.py \
-   --products_db_path=/tmp/ucp_test/products.db \
-   --transactions_db_path=/tmp/ucp_test/transactions.db \
-   --port=8182 &
-SERVER_PID=$!
+   --products_db_path=/tmp/ucp_agoda/products.db \
+   --transactions_db_path=/tmp/ucp_agoda/transactions.db \
+   --port=8184
 ```
 
 Note: Keep the server running for the duration of running the client and the
